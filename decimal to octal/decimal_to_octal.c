@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+// speed programming question
 int three_digits(int n)
 {
     int r, d=0, p=1;
